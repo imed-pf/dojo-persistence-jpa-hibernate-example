@@ -1,1 +1,1 @@
-# imed-dojo-jpa
+# imed-dojo-jpa-hibernate
